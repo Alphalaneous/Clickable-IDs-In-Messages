@@ -1,0 +1,18 @@
+{
+	"geode": "4.10.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "alphalaneous.clickable_ids_in_messages",
+	"name": "Clickable IDs in Messages",
+	"version": "v1.0.0",
+	"developer": "Alphalaneous",
+	"links": {
+        "homepage": "https://linktr.ee/Alphalaneous",
+        "source": "https://github.com/Alphalaneous/Clickable-IDs-In-Messages",
+        "community": "https://discord.gg/Txn2CA5dHF"
+    }
+}
